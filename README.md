@@ -63,7 +63,6 @@ A modern, production-ready application built for Grippi's Junior Full-Stack Deve
 
 ## 📸 Screenshots
 
-[Add screenshots here]
 
 ## 🚀 Quick Start
 
@@ -132,9 +131,9 @@ MIT License - feel free to use for learning purposes
 
 ## 🤝 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
+Your Name - [bishwajeetsahoo11@gmail.com](mailto:bishwajeetsahoo11@gmail.com)
 
-Project Link: [https://github.com/yourusername/campaign-analytics](https://github.com/yourusername/campaign-analytics)
+Project Link: [https://github.com/BishwajeetS11/Marketing_Campaign_Dashboard](https://github.com/BishwajeetS11/Marketing_Campaign_Dashboard)
 ```
 
 ## 🏷️ GitHub Topics/Tags
