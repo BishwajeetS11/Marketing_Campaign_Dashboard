@@ -9,9 +9,9 @@
 
 ## 🚀 Live Demo
 
-- **Frontend:** [https://your-app.vercel.app](https://your-app.vercel.app)
-- **Backend API:** [https://your-api.railway.app](https://your-api.railway.app)
-- **API Docs:** [https://your-api.railway.app/docs](https://your-api.railway.app/docs)
+- **Frontend:** [https://marketing-campaign-dashboard-9c7w.vercel.app/](https://marketing-campaign-dashboard-9c7w.vercel.app/)
+- **Backend API:** [https://marketing-campaign-dashboard.vercel.app/](https://marketing-campaign-dashboard.vercel.app/)
+- **API Docs:** [https://marketing-campaign-dashboard.vercel.app/docs](https://marketing-campaign-dashboard.vercel.app/docs)
 
 ## 📋 Overview
 
